@@ -1,11 +1,11 @@
 # Calculator-Using-Python
 Desgined a calculator as a mini-project using python
 
-Problem Statement:
+<b>Problem Statement:
 Write a program to create a calculator which can perform arithmetic 
 operations like addition, subtraction, multiplication, division etc, 
 depending upon input from the user. Create lists, functions, conditions 
-and loops to execute the program. 
+and loops to execute the program. </b>
 
 We were divided into a group of 3 students and were told to design a project using Python.
 We used object oriented programming. We defined a function for each arthic operation and called
