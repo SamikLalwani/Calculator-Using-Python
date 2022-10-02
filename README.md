@@ -21,5 +21,5 @@ In the final while loop statement, we used nested if else statements to ask the 
 they want to use. If user enetered any operator outside the given options, the program will give aan error and remind
 the user to select an operator from the given choices only. 
 
-However, trying our best to make the project more and more efficient and error-free. I wish to continue and keep working
-on the project and build a GUI based calculator around the same. 
+<b>However, trying our best to make the project more and more efficient and error-free. I wish to continue and keep working
+on the project and build a GUI based calculator around the same. </b>
