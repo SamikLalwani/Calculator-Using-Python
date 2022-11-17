@@ -22,4 +22,4 @@ they want to use. If user enetered any operator outside the given options, the p
 the user to select an operator from the given choices only. 
 
 <b>However, trying our best to make the project more and more efficient and error-free. I wish to continue and keep working
-on the project and build a GUI based calculator around the same. </b>
+on the project and build a GUI based calculator around the same. I am also open to any suggestions, so please do. </b>
