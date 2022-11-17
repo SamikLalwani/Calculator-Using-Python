@@ -21,5 +21,4 @@ In the final while loop statement, we used nested if else statements to ask the 
 they want to use. If user enetered any operator outside the given options, the program will give aan error and remind
 the user to select an operator from the given choices only. 
 
-<b>However, trying our best to make the project more and more efficient and error-free. I wish to continue and keep working
-on the project and build a GUI based calculator around the same. I am also open to any suggestions, so please do. </b>
+<b>I have also provided a basic code for Calculator using C with the help of switch cases. However, focusing on the python project and trying our best to make the project more and more efficient and error-free. I wish to continue and keep working on the project and build a GUI based calculator around the same. I am also open to any suggestions, so please do! </b>
